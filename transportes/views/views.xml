@@ -161,8 +161,8 @@
       <field name="arch" type="xml">
         <tree>
           <field name="name"/>
-          <field name="phone"/>
-          <field name="private_email"/>
+          <field name="mobile_phone"/>
+          <field name="work_email"/>
         </tree>
       </field>
     </record>
